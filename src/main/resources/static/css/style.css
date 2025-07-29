@@ -1,0 +1,48 @@
+
+body {
+    background-color: #e6f2ff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    max-width: 900px;
+}
+
+.card-swot-strength .card-header {
+    background-color: #007bff !important;
+}
+
+.card-swot-weakness .card-header {
+    background-color: #1e90ff !important;
+}
+
+.card-swot-opportunity .card-header {
+    background-color: #00bfff !important;
+}
+
+.card-swot-threat .card-header {
+    background-color: #5dade2 !important;
+}
+
+.card, .list-group-item {
+    background-color: #f0f8ff;
+    border-color: #cfe2ff;
+    border-radius: 10px;
+}
+
+.list-group-item {
+    margin-bottom: 5px;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.btn-primary {
+    background-color: #004080;
+    border-color: #004080;
+}
+
+.btn-primary:hover {
+    background-color: #00264d;
+}
