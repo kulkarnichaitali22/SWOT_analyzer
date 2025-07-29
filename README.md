@@ -1,3 +1,4 @@
+
 # Web-Based SWOT Analyzer Mini Project
 
 This is a simple web application developed as a mini-project to practice frontend-backend integration, form handling, and dynamic content rendering.
@@ -48,3 +49,4 @@ This is a simple web application developed as a mini-project to practice fronten
 (Include your actual screenshots here)
 * [Screenshot of Input Form](.\Images\Input_form.png)
 * [Screenshot of Output Page](.\Images\Output_matrix.png)
+
